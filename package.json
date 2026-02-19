@@ -8,12 +8,13 @@
         "email": "zone117x@gmail.com"
     },
     "contributors": [
-        "Wrkz Team <team@wrkz.work> (https://www.wrkz.work)"
+        "Wrkz Team <team@wrkz.work> (https://www.wrkz.work)",
+	"Leo Stehlik, not associated with any bloody crypto project"
     ],
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/wrkzcoin/node8-multi-hashing.git"
+        "url": "https://github.com/derogold/wrkzcoin-multi-hashing.git"
     },
     "scripts": {
         "test": "node-gyp clean && node-gyp configure && node-gyp build && node tests/cryptonight-tests.js && node tests/argon2-tests.js"
