@@ -1,16 +1,12 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+# DeroGold-multi-hashing
 
-#### Master Build Status
-[![Build Status](https://travis-ci.org/turtlecoin/node8-multi-hashing.svg?branch=master)](https://travis-ci.org/turtlecoin/node8-multi-hashing) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/node8-multi-hashing?branch=master&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/node8-multi-hashing/branch/master)
+Cryptocurrency hashing functions for NodeJS. 
 
-#### Development Build Status
-[![Build Status](https://travis-ci.org/turtlecoin/node8-multi-hashing.svg?branch=development)](https://travis-ci.org/turtlecoin/node8-multi-hashing) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/node8-multi-hashing?branch=development&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/node8-multi-hashing/branch/development)
+Adapted to be used with DeroGold and WRKZCoin. 
 
-[![NPM](https://nodei.co/npm/turtlecoin-multi-hashing.png?downloads=true&stars=true)](https://nodei.co/npm/turtlecoin-multi-hashing/)
+Used as a dependency for nodejs pool.
 
-# TurtleCoin-multi-hashing
-
-Cryptocurrency hashing functions for NodeJS
+Source code for the WRKZCoin-Multi-Hashing npm package. 
 
 ***Now with Windows support***
 
@@ -88,4 +84,4 @@ console.log(hashedData)
 * [PhearZero](https://github.com/PhearZero) Michael J Feher
 * [codebling](https://github.com/codebling) CodeBling
 * [Monero](https://github.com/monero-project/monero) The Monero Project
-* [TurtleCoin](https://github.com/turtlecoin) TurtleCoin Developers
+* [TurtleCoin](https://github.com/turtlecoin) TurtleCoin Developers. R.I.P. lads, was all great fun!
