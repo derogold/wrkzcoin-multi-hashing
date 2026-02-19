@@ -407,6 +407,16 @@
     "want_separate_host_toolset": 0,
     "nodedir": "/home/less/.cache/node-gyp/18.20.4",
     "python": "/usr/bin/python3",
-    "standalone_static_library": 1
+    "standalone_static_library": 1,
+    "user_agent": "npm/10.7.0 node/v18.20.4 linux x64 workspaces/false",
+    "userconfig": "/home/less/.npmrc",
+    "local_prefix": "/home/less/wrkzcoin-multi-hashing",
+    "prefix": "/home/less/.nvm/versions/node/v18.20.4",
+    "npm_version": "10.7.0",
+    "cache": "/home/less/.npm",
+    "node_gyp": "/home/less/.nvm/versions/node/v18.20.4/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js",
+    "globalconfig": "/home/less/.nvm/versions/node/v18.20.4/etc/npmrc",
+    "init_module": "/home/less/.npm-init.js",
+    "global_prefix": "/home/less/.nvm/versions/node/v18.20.4"
   }
 }
